@@ -20,7 +20,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int numri = 9;
+        int numri = 10000;
         
         Main main = new Main();    
         Random rand = new Random();
